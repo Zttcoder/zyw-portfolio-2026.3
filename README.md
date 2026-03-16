@@ -11,28 +11,43 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
+My name: Yuwen(Alina) Zhong
+
+My program: MISM-BIDA
+
+I am from Wuhan, China. In my spare time I enjoy cooking, exercising and watching some TV shows.
+
+My professional background:
+
 Data Science & Data Analysis
 
-I’m a data analyst and aspiring data scientist with strong skills in SQL, Python, Excel, data visualization and modeling. I’m particularly interested in applying data science models to solve problems in uer segmentation and user behavior analysis. 
+I’m a data analyst and aspiring data scientist with skills in SQL, Python, Excel, data visualization and modeling.  
 My previous internships have primarily been in e-commerce and internet-based companies, which has given me a solid understanding of e-commerce business logic. At the same time, I am highly motivated to apply my data skills to other industries that I have not yet had the opportunity to explore.
-My professional experience along with my research and competition experience in data science, has strengthened my belief that : a strong data professional should work hard to ensure data consistency and accuracy, tell good stories through data and help people make data-driven decisions.
 
-I’m currently actively seeking internship opportunities as well as chances to connect and exchange ideas with like-minded professionals in the industry.
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+I hope to learn data visualization and data storytelling skills through this course. I also hope the course will help me with my job search in the data analytics field and allow me to gain more industry knowledge about how data visualization is used in practice.
 
-1. List item #1
-2. List item #2
-3. List item #3
+More specifically, the skill set I want to develop includes:
 
-or...
+1. Tableau #1
+2. Power BI #2
+3. Data visualization techniques #3
+4. Data-driven decision making #4
+5. Generating insights from complex datasets and communicating them clearly to support business decisions #5
 
-- List item #1
-- List item #2
-- List item #3
+
 
 # Portfolio
+### 1.critique-by-design
+
+### 2.dataviz-examples
+
+### 3.final-project-part-one
+
+### 4.final-project-part-two
+
+### 5.final-project-part-three
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
