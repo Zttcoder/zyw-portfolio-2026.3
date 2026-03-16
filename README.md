@@ -4,14 +4,20 @@
 These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
 It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
 
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
-
+- Web page URL: https://zttcoder.github.io/zyw-portfolio-2026.3/
+- This repository: https://github.com/Zttcoder/zyw-portfolio-2026.3/
+  
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Data Science & Data Analysis
+
+I’m a data analyst and aspiring data scientist with strong skills in SQL, Python, Excel, data visualization and modeling. I’m particularly interested in applying data science models to solve problems in uer segmentation and user behavior analysis. 
+My previous internships have primarily been in e-commerce and internet-based companies, which has given me a solid understanding of e-commerce business logic. At the same time, I am highly motivated to apply my data skills to other industries that I have not yet had the opportunity to explore.
+My professional experience along with my research and competition experience in data science, has strengthened my belief that : a strong data professional should work hard to ensure data consistency and accuracy, tell good stories through data and help people make data-driven decisions.
+
+I’m currently actively seeking internship opportunities as well as chances to connect and exchange ideas with like-minded professionals in the industry.
 
 # What I hope to learn
 All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
