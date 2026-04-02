@@ -21,9 +21,22 @@ _Don't forget to complete the Google Form found on the assignment page.  You can
 
 ### Worked well:
 
+- The color gradient clearly shows differences in retirement age across countries, making it easy to identify patterns at a glance.
+- The title is engaging and clearly communicates the main question of the visualization.
+- The layout and the coler pattern is nice to look at overall.
+
 ### Didn't Work well:
 
+- Exact values for each country are not labeled, so it’s hard to know precise retirement ages.
+- Also, the country names are not labelled, so for people with little European geographic knowledge it would be hard to understand.
+- Some countries are small and difficult to see clearly on the map.
+
 ### My Thoughts for Redesign:
+
+- Add labels or tooltips to show exact values for better readability.
+- Use a different chart type- to make comparisons easier.
+- Include additional dimensions (such as gender differences or changes over time) to provide more info.
+
 
 ## Step three: Sketch a solution
 
@@ -35,11 +48,11 @@ Questions to ask (modify these for your own interviews):
 
 - Can you tell me what you think this is?
 
-- Can you describe to me what this is telling you?
+- Is there too much information in one single graph?
+
+- Is it clear and readable for the intended audience?
 
 - Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
 
 - Is there anything you would change or do differently?
 
@@ -47,12 +60,7 @@ Results:
 
 _Don't identify or share personally identifiable information (PII) about the people you spoke to._
 
-
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+I got two interviewee to answer my questions and they gave me helpful advice. The synthesis of their answer and our discussion based on that can be found below.
 
 Synthesis: 
 
@@ -82,9 +90,23 @@ _Include and describe your final solution here. It's also a good idea to summari
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+
+<div class='tableauPlaceholder' id='viz1775170597258' style='position: relative'><noscript><a href='#'><img alt='Narrowing Differences in Retirement Age Across Countries Over Time ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Re&#47;RetiringAge&#47;Sheet3&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='RetiringAge&#47;Sheet3' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Re&#47;RetiringAge&#47;Sheet3&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object></div>                
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1775170597258');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
+
+
 ## References
 _List any references you used here._
 
+Data Source: https://data.world/makeovermonday/2023w16/workspace/file?filename=Effective+labour+market+exit+age.xlsx
+
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+
+I only used AI to help me rephrase and organize my comments.
 
