@@ -40,7 +40,7 @@ _Don't forget to complete the Google Form found on the assignment page.  You can
 
 ## Step three: Sketch a solution
 
-![5021a953a2870a4b7ec2089e51d05699](https://github.com/user-attachments/assets/be65d9aa-ba44-468c-b915-4ac87f7af8d9)
+<img src="sketch.jpg" width="300"/>
 
 
 ## Step four: Test the solution
@@ -69,13 +69,32 @@ Synthesis:
 
 _What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
 
+Feedback I got: 
+
+- Using a heatmap is an interesting choice, but displaying all countries and all years in a single table results in too much information and can be overwhelming. It would be better to focus on a specific subset of the data.
+- more attention should be paid to the use of colors
+- Setting the time axis horizontally seems more natural.
+
+What I learned from the feedback:
+
+- We should first thoroughly explore and understand the original dataset. Based on its characteristics and underlying trends, then choose appropriate visualization methods and decide what aspects of the data to highlight.
+
 ## Step five: build the solution
 
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
-<div class='tableauPlaceholder' id='viz1775170124359' style='position: relative'><noscript><a href='#'><img alt='Gender Gaps in Retirement Age Vary Across Countries ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Re&#47;RetiringAge&#47;Sheet4&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='RetiringAge&#47;Sheet4' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Re&#47;RetiringAge&#47;Sheet4&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object></div>                
+After completing the interviews, I decided to focus on my classmates’ suggestion to reduce the amount of data to avoid clutter and to concentrate on a specific subset. At the same time, I also wanted to experiment with different types of visualizations, since the original dataset includes multiple dimensions—country, gender, and year—which are difficult to effectively present in a single chart.
+
+
+To present the characteristics and trends of the original dataset as comprehensively as possible, I used three different types of visualizations. First, I created a heatmap to show the average retirement age for each country across different years, using color spectrums to visually represent the magnitude of the values. I also focused on the top 5 and bottom 5 countries in terms of average retirement age to reduce cluttering and highlight the most significant patterns.
+
+Next, I used a dumbbell chart based on the most recent data (2020) to illustrate the differences in retirement age between genders, as well as the variation in gender gaps across countries.
+
+Finally, I created a traditional line chart to more clearly show how retirement age changes over time.(countries with top 5 average retirement age)
+
+<div class='tableauPlaceholder' id='viz1775174497351' style='position: relative'><noscript><a href='#'><img alt='Gender Gaps in Retirement Age Vary Across Countries ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Re&#47;RetiringAge&#47;Sheet4&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='RetiringAge&#47;Sheet4' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Re&#47;RetiringAge&#47;Sheet4&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
-  var divElement = document.getElementById('viz1775170124359');                    
+  var divElement = document.getElementById('viz1775174497351');                    
   var vizElement = divElement.getElementsByTagName('object')[0];                    
   vizElement.style.width='100%';
   vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
@@ -94,10 +113,12 @@ _Include and describe your final solution here. It's also a good idea to summari
 </script>
 
 
-<div class='tableauPlaceholder' id='viz1775170597258' style='position: relative'><noscript><a href='#'><img alt='Narrowing Differences in Retirement Age Across Countries Over Time ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Re&#47;RetiringAge&#47;Sheet3&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='RetiringAge&#47;Sheet3' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Re&#47;RetiringAge&#47;Sheet3&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object></div>                
+<div class='tableauPlaceholder' id='viz1775174412713' style='position: relative'><noscript><a href='#'><img alt='Narrowing Differences in Retirement Age Across Countries Over Time ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Re&#47;RetiringAge&#47;Sheet3&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='RetiringAge&#47;Sheet3' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Re&#47;RetiringAge&#47;Sheet3&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
-  var divElement = document.getElementById('viz1775170597258');                    
-  var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var divElement = document.getElementById('viz1775174412713');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';
+  vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
   var scriptElement = document.createElement('script');                    
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
