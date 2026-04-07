@@ -38,6 +38,14 @@ Text here...
 |      |     |             |
 |      |     |             |
 
+https://www.akc.org/dog-breeds/border-collie/
+
+https://insurify.com/pet-insurance/knowledge/how-much-is-a-border-collie/
+
+https://www.shelteranimalscount.org/
+
+https://api.worldanimalprotection.org/
+
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
 
