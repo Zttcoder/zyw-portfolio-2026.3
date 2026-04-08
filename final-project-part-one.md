@@ -28,31 +28,44 @@ Text here...
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
-Text here...
-
 > A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
 
-https://www.akc.org/dog-breeds/border-collie/
+Name: boder collie basic information  url: https://www.akc.org/dog-breeds/border-collie/
 
-https://insurify.com/pet-insurance/knowledge/how-much-is-a-border-collie/
+Description: basic data of border collie including their origin, personality traits, and typical behavioral characteristics
 
-https://www.shelteranimalscount.org/
 
-https://api.worldanimalprotection.org/
+Name: cost estimation  url: https://insurify.com/pet-insurance/knowledge/how-much-is-a-border-collie/
+
+Description: estimated cost associated with raising a border collie
+
+
+Name: shelter animals data  url : https://www.shelteranimalscount.org/
+
+Description: national data platform that collects and shares information about animals in shelters across the United States. It provides reliable and transparent data on pet intake, adoption, transfer, and outcomes
+
+
+Name: animal protection comparison around the world  url : https://api.worldanimalprotection.org/
+
+Description: It provides access to global data related to animal welfare and protection. It allows users to retrieve structured data about how different countries treat animals, including laws, policies, and welfare standards.
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
+> In a few sentences, you should document how you plan on completing your final project.
 
-Text here...
+First, I will collect data from multiple sources, including but may not limited to the platforms listed above. Based on the needs of the visualization design, I will perform initial data cleaning and organization.
+
+Then, I will use tools introduced in this course, such as Tableau, Shorthand, and Datawrapper, to develop different types of visualizations.
+
+Finally, I will use GitHub to implement and publish the webpage for the project.
+
+
 
 ## References
 _List any references you used here._
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+
