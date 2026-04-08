@@ -23,7 +23,8 @@ Finally, the webpage will conclude with a call to action. It will encourage user
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.
 
-
+<img src="fp_sketch1.jpg" width="300"/>
+<img src="fp_sketch2.jpg" width="300"/>
 
 
 Page 1: Introduction to Border Collies
@@ -83,4 +84,6 @@ _List any references you used here._
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+
+I used chatGPT to help me rephrase and organize some of my thoughts.
 
