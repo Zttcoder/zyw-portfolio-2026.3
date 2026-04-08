@@ -24,6 +24,7 @@ Finally, the webpage will conclude with a call to action. It will encourage user
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.
 
 <img src="fp_sketch1.jpg" width="300"/>
+
 <img src="fp_sketch2.jpg" width="300"/>
 
 
