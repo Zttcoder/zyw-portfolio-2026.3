@@ -21,9 +21,22 @@ Later, the project will examine animal protection laws across different countrie
 Finally, the webpage will conclude with a call to action. It will encourage users to make informed and responsible decisions before adopting a pet, and to respect animal life even if they choose not to own one. The goal is to leave users with a deeper understanding of both the joy and responsibility that come with pet ownership, as well as a broader awareness of animal welfare issues.
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.
 
-Text here...
+
+
+
+Page 1: Introduction to Border Collies
+The first page centers around an image or illustration of a Border Collie. Around the image, key attributes of the breed are displayed, including origin, weight and height, appearance, personality, and behavioral characteristics. This layout provides a quick and engaging overview of the breed’s basic information.
+
+Page 2: Cost Estimation
+The second page uses a pie chart to show the estimated cost of owning a Border Collie. Each segment represents a percentage of the total cost, helping users understand the financial commitment.
+
+Page 3: Abandonment and Shelter Issues
+The third page focuses on the issue of dog abandonment. A bar chart compares abandonment rates across different dog breeds, highlighting the relatively high rate for Border Collies. Next to it, a line chart shows trends over time, such as changes in abandonment rates or shelter intake, to provide a broader view of the problem.
+
+Page 4: Animal Protection
+The fourth page presents a global perspective on animal protection. A world map compares different countries based on animal welfare conditions or policies. Below or beside the map, a bar chart shows animal protection indexes for selected countries. There is also space for a heatmap or table to further compare countries across multiple dimensions.
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
@@ -60,6 +73,8 @@ First, I will collect data from multiple sources, including but may not limited 
 Then, I will use tools introduced in this course, such as Tableau, Shorthand, and Datawrapper, to develop different types of visualizations.
 
 Finally, I will use GitHub to implement and publish the webpage for the project.
+
+This is more like a preliminary plan, during the developing process of this project, I will try to make adjustments and refine based on the work in progress. Also, I would try to adopt the critique and advice from classmaates, professor and TAs. Also, I will focus on the story arc and call to action part in order to make it a more logical, impactful story-telling of data.
 
 
 
