@@ -39,7 +39,7 @@ More specifically, the skill set I want to develop includes:
 
 
 # Portfolio
-- 1.critique-by-design
+- 1.[Critique by Design](critique-by-design)
 
 - 2.dataviz-examples
 
