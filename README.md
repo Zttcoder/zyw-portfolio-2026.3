@@ -8,7 +8,7 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 - This repository: https://github.com/Zttcoder/zyw-portfolio-2026.3/
   
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  
 
 # About me
 My name: Yuwen(Alina) Zhong
@@ -39,15 +39,15 @@ More specifically, the skill set I want to develop includes:
 
 
 # Portfolio
-### 1.critique-by-design
+- 1.critique-by-design
 
-### 2.dataviz-examples
+- 2.dataviz-examples
 
-### 3.final-project-part-one
+- 3.final-project-part-one
 
-### 4.final-project-part-two
+- 4.final-project-part-two
 
-### 5.final-project-part-three
+- 5.final-project-part-three
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
@@ -62,7 +62,7 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 Here it might be helpful to include a high-level description of your final project. 
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
-Part III(final-project-part-three)
+[Part III](final-project-part-three)
 
 ---
 ## Other stuff you can do (you can remove this section - it's just for your reference.)
