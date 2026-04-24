@@ -1,8 +1,12 @@
 ## Part 2 Working with Tableau: 
 [Visualizing Government Debt_part2](https://public.tableau.com/views/VisualizingGovernmentDebt_3_22/viz_governmentdebt_0?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+<img src="gdebt1.png" width="600"/>
+
 ## Part 3 Create your own visualization: 
 [Visualizing Government Debt_part3](https://public.tableau.com/views/VisualizingGovernmentDebt_3_22/viz_govdebt_1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+<img src="gdebt2.png" width="600"/>
 
 I wanted to try visualizing with the filled map option suggested in Tableau's 'show me' section. Since the data contains geographic features, visualizing with a map seems like a feasible choice. Through this map, I demonstrated the debt value of each country while utilizing the 'Pages' shelf to present changes over time. Also, I played with the color setting, using color red for countries with value higher than 100(that means the debt ratio is higher than 100%) to show a kind of 'alarming ' message, and using color blue for countries with value lower than 100 to show they are at a relatively safe range.
 
